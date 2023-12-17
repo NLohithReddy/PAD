@@ -1,4 +1,10 @@
-# NULL HYPOTHESIS
+# NULL HYPOTHESIS AND ALTERNATE HYPOTHESIS
+ 
+## Title: Detecting Anomalies in Student Test Scores
+
+### Problem Statement:
+
+A local educational institution wants to ensure the consistency of grading in a particular subject. To verify this, they collected a dataset of student test scores in a CSV file named 'test.csv'. The institution's expected mean score for this subject is 70.
 
 ## Introduction
 
